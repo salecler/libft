@@ -1,2 +1,2 @@
 # libft
-Libft 125. All bonus, Makefile &amp; libs
+libft with bonus, makefile and .h
